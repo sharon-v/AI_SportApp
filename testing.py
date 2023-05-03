@@ -231,4 +231,4 @@ def squatDetect():
     print_success()
 
 
-squatDetect()
+# squatDetect()
